@@ -72,7 +72,7 @@
 }
 
 .aligned-text {
-    z-index: 1; 
+    z-index: 1;
 }
 
 .cover__title {
@@ -178,7 +178,6 @@
     background-size: cover;
     background-position: center;
     position: relative;
-
 }
 
 .card__title {
