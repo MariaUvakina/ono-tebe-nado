@@ -73,6 +73,7 @@
 
 .aligned-text {
     z-index: 1; 
+    font-family: inherit;
 }
 
 .cover__title {
