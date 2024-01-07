@@ -118,6 +118,7 @@
 }
 
 .cover__description-phrase {
+    font-family: Raleway;
     z-index: 1;
     color: #FFF;
     font-weight: 400;
@@ -131,7 +132,7 @@
 .cover_button {
     background: none;
     z-index: 1;
-    font-family: inherit;
+    font-family: Raleway;
     border: 1px solid #fff;
     padding: 12px 32px;
     color: #FFF;
